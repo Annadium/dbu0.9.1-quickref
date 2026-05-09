@@ -141,7 +141,7 @@
 #section-counter .text {
     color: rgb(173, 151, 21);
 }
-
+/**
 #section-environment, #section-environment .item-icon {
     background-color: ForestGreen;
     border-color: ForestGreen;
@@ -149,6 +149,7 @@
 #section-environment .text {
     color: ForestGreen;
 }
+*/
 
 
 /* ------------------------------------------------------------------------- */
