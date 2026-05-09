@@ -118,6 +118,14 @@
 /* ------------------------------------------------------------------------- */
 /* Colors */
 /* ------------------------------------------------------------------------- */
+#section-standard, #section-standard .item-icon {
+    background-color: maroon;
+    border-color: maroon;
+}
+#section-standard .text {
+    color: maroon;
+}
+
 #section-movement, #section-movement .item-icon {
     background-color: maroon;
     border-color: maroon;

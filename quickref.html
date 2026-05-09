@@ -15,6 +15,19 @@
 </head>
 <body class="page-background">
     <div class="page fontsize" data-size="fullscreen">
+        <div id="section-standard" class="section-container">
+            <div class="section-title">
+                Standard Actions <span class="float-right">limited by Action cost</span>
+            </div>
+            <div class="section-content">
+                <div class="section-row section-subtitle text fontsize">
+                    You can use Standard actions during your turn! You usually have 3 Actions per turn.
+                </div>
+                <div class="section-row" id="standard_actions">
+                </div>
+            </div>
+        </div>
+
 
         <!-- Movement section -->
         <div id="section-movement" class="section-container">
@@ -136,6 +149,7 @@
     </div>
 
     <!-- Data -->
+    <script type="text/javascript" src="js/data_standard.js" charset="utf-8"></script>
     <script type="text/javascript" src="js/data_movement.js" charset="utf-8"></script>
     <script type="text/javascript" src="js/data_action.js" charset="utf-8"></script>
     <script type="text/javascript" src="js/data_bonusaction.js" charset="utf-8"></script>
