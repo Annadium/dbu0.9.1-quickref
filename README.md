@@ -1,4 +1,4 @@
-dnd5e-quickref
+dbu0.9.1-quickref
 ==============
 
 Quick reference sheet for the DBU TTRPG
