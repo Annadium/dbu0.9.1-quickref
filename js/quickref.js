@@ -60,10 +60,12 @@ function init() {
     fill_section(data_standard, "standard_actions", "Standard Maneuvers")
     fill_section(data_instant, "instant_actions", "Instant Maneuvers")
     fill_section(data_counter, "counter_actions", "Counter Maneuvers")
+    /**
     fill_section(data_environment_obscurance, "environment-obscurance", "Environment");
     fill_section(data_environment_light, "environment-light", "Environment");
     fill_section(data_environment_vision, "environment-vision", "Environment");
     fill_section(data_environment_cover, "environment-cover", "Environment");
+    */
 
     var modal = document.getElementById("modal");
     modal.onclick = hide_modal;
