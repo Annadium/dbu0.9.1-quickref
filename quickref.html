@@ -17,86 +17,30 @@
     <div class="page fontsize" data-size="fullscreen">
         <div id="section-standard" class="section-container">
             <div class="section-title">
-                Standard Actions <span class="float-right">limited by Action cost</span>
+                Standard Maneuvers <span class="float-right">limited by Action cost</span>
             </div>
             <div class="section-content">
                 <div class="section-row section-subtitle text fontsize">
-                    You can use Standard actions during your turn! You usually have 3 Actions per turn.
+                    You can use Standard Maneuvers during your turn only! You usually have 3 Actions per turn.
                 </div>
                 <div class="section-row" id="standard_actions">
                 </div>
             </div>
         </div>
 
-
-        <!-- Movement section -->
-        <div id="section-movement" class="section-container">
+        <div id="section-instant" class="section-container">
             <div class="section-title">
-                Movement <span class="float-right">limited by movement speed</span>
+                Instant Manuevers
             </div>
             <div class="section-content">
                 <div class="section-row section-subtitle text fontsize">
-                    You can move at any time during your turn (before, after, or during actions).
+                    You can use these during anyones turn, as long as your previous Maneuver wasnt an Instant Maneuver!
                 </div>
-                <div class="section-row" id="basic-movement">
+                <div class="section-row" id="instant_actions">
                 </div>
             </div>
         </div>
 
-        <!-- Action section -->
-        <div id="section-action" class="section-container">
-            <div class="section-title">
-                Action <span class="float-right">1/turn</span>
-            </div>
-            <div class="section-content">
-                <div class="section-row section-subtitle text fontsize">
-                    You can also interact with one object or feature of the
-                    environment for free.
-                </div>
-                <div class="section-row" id="basic-actions"></div>
-            </div>
-        </div>
-
-        <!-- Bonus action section -->
-        <div id="section-bonus-action" class="section-container">
-            <div class="section-title">
-                Bonus action <span class="float-right">max. 1/turn</span>
-            </div>
-            <div class="section-content">
-                <div class="section-row section-subtitle text fontsize">
-                    You can take a bonus action only when a special ability, spell, or feature
-                    states that you can do something as a bonus action.
-                </div>
-                <div class="section-row" id="basic-bonus-actions"></div>
-            </div>
-        </div>
-
-        <!-- Reaction section -->
-        <div id="section-reaction" class="section-container">
-            <div class="section-title">
-                Reaction <span class="float-right">max. 1/round</span>
-            </div>
-            <div class="section-content">
-                <div class="section-row section-subtitle text fontsize">
-                    A reaction is an instant response to a trigger of some kind, which
-                    can occur on your turn or on someone else's.
-                </div>
-                <div class="section-row" id="basic-reactions"></div>
-            </div>
-        </div>
-
-        <!-- Condition section -->
-        <div id="section-condition" class="section-container">
-            <div class="section-title">
-                Condition
-            </div>
-            <div class="section-content">
-                <div class="section-row section-subtitle text fontsize">
-                    Conditions alter your capabilities in a variety of ways, and can arise as a result of a spell, a class feature, a monster's attack, or other effect.
-                </div>
-                <div class="section-row" id="basic-conditions"></div>
-            </div>
-        </div>
         
         <!-- Environmental section -->
         <div id="section-environment" class="section-container">
@@ -150,11 +94,7 @@
 
     <!-- Data -->
     <script type="text/javascript" src="js/data_standard.js" charset="utf-8"></script>
-    <script type="text/javascript" src="js/data_movement.js" charset="utf-8"></script>
-    <script type="text/javascript" src="js/data_action.js" charset="utf-8"></script>
-    <script type="text/javascript" src="js/data_bonusaction.js" charset="utf-8"></script>
-    <script type="text/javascript" src="js/data_reaction.js" charset="utf-8"></script>
-    <script type="text/javascript" src="js/data_condition.js" charset="utf-8"></script>
+    <script type="text/javascript" src="js/data_instant.js" charset="utf-8"></script>
     <script type="text/javascript" src="js/data_environment.js" charset="utf-8"></script>
     <script type="text/javascript" src="js/quickref.js" charset="utf-8"></script>
 </body>

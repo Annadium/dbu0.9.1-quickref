@@ -126,6 +126,14 @@
     color: maroon;
 }
 
+#section-instant, #section-instant .item-icon {
+    background-color: maroon;
+    border-color: maroon;
+}
+#section-instant .text {
+    color: maroon;
+}
+
 #section-movement, #section-movement .item-icon {
     background-color: maroon;
     border-color: maroon;
