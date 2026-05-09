@@ -21,7 +21,7 @@
             </div>
             <div class="section-content">
                 <div class="section-row section-subtitle text fontsize">
-                    You can use Standard Maneuvers during your turn only! You usually have 3 Actions per turn.
+                    Standard Maneuvers can only be used during your turn and use Standard Actions for their Action Cost.
                 </div>
                 <div class="section-row" id="standard_actions">
                 </div>
@@ -34,15 +34,28 @@
             </div>
             <div class="section-content">
                 <div class="section-row section-subtitle text fontsize">
-                    You can use these during anyones turn, as long as your previous Maneuver wasnt an Instant Maneuver!
+                    An Instant Maneuver can occur during any Character’s turn, between any Standard Maneuvers that occur.
                 </div>
                 <div class="section-row" id="instant_actions">
                 </div>
             </div>
         </div>
 
+        <div id="section-counter" class="section-container">
+            <div class="section-title">
+                Counter Manuevers <span class="float-right">limited by Counter Action cost</span>
+            </div>
+            <div class="section-content">
+                <div class="section-row section-subtitle text fontsize">
+                    Defensive Maneuvers that are used to protect your Character from harm. Counter Maneuvers cannot be used unless you are the target of an Attacking Maneuver (unless otherwise stated) and use Counter Actions for their Action Cost.
+                </div>
+                <div class="section-row" id="counter_actions">
+                </div>
+            </div>
+        </div>
         
         <!-- Environmental section -->
+        <!--
         <div id="section-environment" class="section-container">
             <div class="section-title">
                 Environmental Effects
@@ -66,7 +79,7 @@
                 <div class="section-row" id="environment-cover"></div>
             </div>
         </div>
-
+        -->
     </div>
 
     <!-- Modal -->
@@ -95,7 +108,8 @@
     <!-- Data -->
     <script type="text/javascript" src="js/data_standard.js" charset="utf-8"></script>
     <script type="text/javascript" src="js/data_instant.js" charset="utf-8"></script>
-    <script type="text/javascript" src="js/data_environment.js" charset="utf-8"></script>
+    <script type="text/javascript" src="js/data_counter.js" charset="utf-8"></script>
+    <!--<script type="text/javascript" src="js/data_environment.js" charset="utf-8"></script>-->
     <script type="text/javascript" src="js/quickref.js" charset="utf-8"></script>
 </body>
 </html>

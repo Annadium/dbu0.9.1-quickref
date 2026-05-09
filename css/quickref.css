@@ -127,51 +127,19 @@
 }
 
 #section-instant, #section-instant .item-icon {
-    background-color: maroon;
-    border-color: maroon;
+    background-color: rgb(145, 89, 21);
+    border-color: rgb(145, 89, 21);
 }
 #section-instant .text {
-    color: maroon;
+    color: rgb(145, 89, 21);
 }
 
-#section-movement, #section-movement .item-icon {
-    background-color: maroon;
-    border-color: maroon;
+#section-counter, #section-counter .item-icon {
+    background-color: rgb(173, 151, 21);
+    border-color: rgb(173, 151, 21);
 }
-#section-movement .text {
-    color: maroon;
-}
-
-#section-action, #section-action .item-icon {
-    background-color: black;
-    border-color: black;
-}
-#section-action .text {
-    color: black;
-}
-
-#section-bonus-action, #section-bonus-action .item-icon {
-    background-color: indigo;
-    border-color: indigo;
-}
-#section-bonus-action .text {
-    color: indigo;
-}
-
-#section-reaction, #section-reaction .item-icon {
-    background-color: DarkOliveGreen ;
-    border-color: DarkOliveGreen ;
-}
-#section-reaction .text {
-    color: DarkOliveGreen ;
-}
-
-#section-condition, #section-condition .item-icon {
-    background-color: FireBrick;
-    border-color: FireBrick;
-}
-#section-condition .text {
-    color: FireBrick;
+#section-counter .text {
+    color: rgb(173, 151, 21);
 }
 
 #section-environment, #section-environment .item-icon {
