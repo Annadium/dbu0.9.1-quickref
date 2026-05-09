@@ -1,3 +1,4 @@
+/**
 data_environment_obscurance = [
     {
         title: "Lightly obscured",
@@ -130,3 +131,5 @@ data_environment_cover = [
         ]
     }
 ]
+
+*/
