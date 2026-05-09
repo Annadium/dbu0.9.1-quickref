@@ -141,15 +141,15 @@
 #section-counter .text {
     color: rgb(173, 151, 21);
 }
-/**
-#section-environment, #section-environment .item-icon {
+
+#section-attacks, #section-attacks .item-icon {
     background-color: ForestGreen;
     border-color: ForestGreen;
 }
-#section-environment .text {
+#section-attacks .text {
     color: ForestGreen;
 }
-*/
+
 
 
 /* ------------------------------------------------------------------------- */
