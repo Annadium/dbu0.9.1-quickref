@@ -98,7 +98,7 @@ data_standard = [
     },
     {
         title: "Movement Maneuver",
-        icon: "walking_boot",
+        icon: "walking-boot",
         subtitle: "Get from point A to point B.",
         description: "Getting from point A to point B as fast as possible.",
         bullets: [
@@ -121,7 +121,7 @@ data_standard = [
     },
     {
         title: "Power Up Maneuver [2/Round]",
-        icon: "beams_aura",
+        icon: "beams-aura",
         subtitle: "Push limits!",
         description: "Concentrate your power and push it to its limits!",
         bullets: [
@@ -132,7 +132,7 @@ data_standard = [
     },
     {
         title: "Signature Technique Maneuver [1/Round]",
-        icon: "beam_wake",
+        icon: "beam-wake",
         subtitle: "Use a Signature Technique!",
         description: "Blast an Opponent away with a Signature Technique!",
         bullets: [
@@ -143,7 +143,7 @@ data_standard = [
     },
     {
         title: "Throw Maneuver [1/Round]",
-        icon: "thrown_charcoal",
+        icon: "thrown-charcoal",
         subtitle: "Throw an object.",
         description: "Throw an object you have on your person or in your hands.",
         bullets: [
@@ -169,7 +169,7 @@ data_standard = [
     },
     {
         title: "Toss Maneuver [1/Round]",
-        icon: "throw_spear",
+        icon: "thrown-spear",
         subtitle: "Give an item to an ally.",
         description: "Give an item to a friend or ally.",
         bullets: [

@@ -1,7 +1,7 @@
 data_counter = [
     {
         title: "Blockade Maneuver",
-        icon: "juggler",
+        icon: "shield",
         subtitle: "Protect your allies by standing in the way.",
         description: "Protect your allies by standing in the way.",
         bullets: [
@@ -12,7 +12,7 @@ data_counter = [
     },
     {
         title: "Defend Maneuver",
-        icon: "juggler",
+        icon: "dodge",
         subtitle: "Defend yourself against dangerous attacks.",
         description: "Select one of the following effects when targeted by an attack:",
         bullets: [
@@ -26,7 +26,7 @@ data_counter = [
     },
     {
         title: "Duel Maneuver",
-        icon: "juggler",
+        icon: "crossed-swords",
         subtitle: "Fight back against an attack with your might!",
         description: "Initiate when targeted by a Signature Technique or high-charge attack.",
         bullets: [
@@ -39,7 +39,7 @@ data_counter = [
     },
     {
         title: "Duel Escape Maneuver",
-        icon: "juggler",
+        icon: "run",
         subtitle: "That’s not a match you’ll win. Better to dip.",
         description: "Escape a Duel before it begins.",
         bullets: [
@@ -50,7 +50,7 @@ data_counter = [
     },
     {
         title: "Energy Cancel [1/Round]",
-        icon: "juggler",
+        icon: "cancel",
         subtitle: "Plans change. Change strategies immediately.",
         description: "Stop charging an attack to regain your freedom.",
         bullets: [
@@ -61,7 +61,7 @@ data_counter = [
     },
     {
         title: "Exploit Maneuver",
-        icon: "juggler",
+        icon: "awareness",
         subtitle: "Punish openings.",
         description: "Make a reactive strike when an opponent leaves themselves open.",
         bullets: [
@@ -72,7 +72,7 @@ data_counter = [
     },
     {
         title: "Intervene Maneuver",
-        icon: "juggler",
+        icon: "dark-squad",
         subtitle: "Step in the way of danger to help an ally!",
         description: "Help an ally within 8 squares who was hit by an attack.",
         bullets: [
@@ -84,7 +84,7 @@ data_counter = [
     },
     {
         title: "Reflect Maneuver",
-        icon: "juggler",
+        icon: "shield-reflect",
         subtitle: "Throw back an attack against an opponent!",
         description: "Counter-attack after a successful defensive move.",
         bullets: [

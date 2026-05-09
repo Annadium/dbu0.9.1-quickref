@@ -1,7 +1,7 @@
 data_instant = [
     {
         title: "Called Shot [1/Round]",
-        icon: "juggler",
+        icon: "target-laser",
         subtitle: "Target specific weaknesses.",
         description: "A unique type of Maneuver that allows you to target specific weaknesses.",
         bullets: [
@@ -13,7 +13,7 @@ data_instant = [
     },
     {
         title: "No Effort Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "feather",
         subtitle: "Anything incredibly easy to do.",
         description: "Anything incredibly easy to do, taking almost no time.",
         bullets: [
@@ -29,7 +29,7 @@ data_instant = [
     },
     {
         title: "Revert Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "back-pain",
         subtitle: "Return to your base form.",
         description: "Release a transformed state and return to your base form.",
         bullets: [
@@ -40,7 +40,7 @@ data_instant = [
     },
     {
         title: "Surge Maneuver [1/Encounter]",
-        icon: "juggler",
+        icon: "heart-bottle",
         subtitle: "Gather yourself and recover.",
         description: "Gather yourself and recover.",
         bullets: [
@@ -51,7 +51,7 @@ data_instant = [
     },
     {
         title: "Terrain Lift Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "rock",
         subtitle: "Tear up the ground.",
         description: "Tear up the ground.",
         bullets: [
@@ -65,7 +65,7 @@ data_instant = [
     },
     {
         title: "Triggered Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "clockwork",
         subtitle: "Delay your Maneuvers.",
         description: "A unique type of Maneuver that allows you to delay your Maneuvers.",
         bullets: [
@@ -82,7 +82,7 @@ data_instant = [
     },
     {
         title: "United Attack Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "all-for-one",
         subtitle: "A team attack with all you’ve got.",
         description: "A team attack with all you’ve got.",
         bullets: [
