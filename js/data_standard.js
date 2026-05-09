@@ -1,7 +1,7 @@
 data_standard = [
     {
         title: "Aura Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "aura",
         subtitle: "Activate an Aura",
         description: "Engulf your body in ki, granting the powers of a specialized aura.",
         bullets: [
@@ -23,7 +23,7 @@ data_standard = [
     },
     {
         title: "Combat Recovery [1/Round]",
-        icon: "juggler",
+        icon: "health-increase",
         subtitle: "Recover as much stamina as possible.",
         description: "Talk or rest to recover as much stamina as possible.",
         bullets: [
@@ -36,7 +36,7 @@ data_standard = [
     },
     {
         title: "Command [1/Round]",
-        icon: "juggler",
+        icon: "backup",
         subtitle: "Control your Minions!",
         description: "Control your Minions by granting them actions.",
         bullets: [
@@ -59,7 +59,7 @@ data_standard = [
     },
     {
         title: "Energy Charge Maneuver",
-        icon: "juggler",
+        icon: "embrassed-energy",
         subtitle: "Charge up an attack.",
         description: "Charge up your energy into a single, high-power attack.",
         bullets: [
@@ -71,7 +71,7 @@ data_standard = [
     },
     {
         title: "Grapple Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "grab",
         subtitle: "Grab an Opponent.",
         description: "Beyond just punching people, grabbing an Opponent is a valid option too.",
         bullets: [
@@ -87,7 +87,7 @@ data_standard = [
     },
     {
         title: "Launch Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "thrust",
         subtitle: "Throw a held character.",
         description: "Throw a character you are holding.",
         bullets: [
@@ -98,7 +98,7 @@ data_standard = [
     },
     {
         title: "Movement Maneuver",
-        icon: "juggler",
+        icon: "walking_boot",
         subtitle: "Get from point A to point B.",
         description: "Getting from point A to point B as fast as possible.",
         bullets: [
@@ -110,7 +110,7 @@ data_standard = [
     },
     {
         title: "Pin Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "cobweb",
         subtitle: "Prevent escape!",
         description: "Pin your Opponents, preventing escape!",
         bullets: [
@@ -121,7 +121,7 @@ data_standard = [
     },
     {
         title: "Power Up Maneuver [2/Round]",
-        icon: "juggler",
+        icon: "beams_aura",
         subtitle: "Push limits!",
         description: "Concentrate your power and push it to its limits!",
         bullets: [
@@ -132,7 +132,7 @@ data_standard = [
     },
     {
         title: "Signature Technique Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "beam_wake",
         subtitle: "Use a Signature Technique!",
         description: "Blast an Opponent away with a Signature Technique!",
         bullets: [
@@ -143,7 +143,7 @@ data_standard = [
     },
     {
         title: "Throw Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "thrown_charcoal",
         subtitle: "Throw an object.",
         description: "Throw an object you have on your person or in your hands.",
         bullets: [
@@ -156,7 +156,7 @@ data_standard = [
     },
     {
         title: "Thrust Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "tripwire",
         subtitle: "Knock an Opponent off-balance.",
         description: "You strike an Opponent to knock them off-balance or blow them away.",
         bullets: [
@@ -169,7 +169,7 @@ data_standard = [
     },
     {
         title: "Toss Maneuver [1/Round]",
-        icon: "juggler",
+        icon: "throw_spear",
         subtitle: "Give an item to an ally.",
         description: "Give an item to a friend or ally.",
         bullets: [
@@ -180,7 +180,7 @@ data_standard = [
     },
     {
         title: "Transformation Maneuver",
-        icon: "juggler",
+        icon: "burning-passion",
         subtitle: "Enter a Transformation!",
         description: "Enter a Transformation!",
         bullets: [
