@@ -52,7 +52,7 @@ data_attacks_physical = [
     {
         title: "Powered",
         icon: "fist",
-        subtitle: "A single, powerful attack charged to the brim with ki.",
+        subtitle: "A single, powerful attack charged with ki.",
         description: "A single, powerful punch or kick charged to the brim with ki.",
         bullets: [
             "KP Cost: 8(T)",
@@ -144,7 +144,7 @@ data_attacks_energy = [
     {
         title: "Rapid Fire",
         icon: "blast",
-        subtitle: "A barrage of ki blasts focused onto a target.",
+        subtitle: "A barrage of ki blasts.",
         description: "A barrage of ki blasts focused onto a target.",
         bullets: [
             "KP Cost: 5(T)",
@@ -246,7 +246,7 @@ data_attacks_magic = [
     {
         title: "Mega Flare",
         icon: "magic-palm",
-        subtitle: "By focusing as much energy as possible, this magic is devastating.",
+        subtitle: "Focus as much energy as possible.",
         description: "By focusing as much energy as possible, this magic is devastating.",
         bullets: [
             "KP Cost: 10(T)",
